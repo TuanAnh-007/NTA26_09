@@ -12,6 +12,7 @@
 <img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/0451e7af-64ad-4496-9e50-0858d9b1f96a" />
 
 ## Bai4.4
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/2231e652-ddd5-4605-8d1a-e3b00112cad8" />
 
 
 ## Bai 4.5
